@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: AI Got Rhythm
+site_url: https://ai-got-rhythm.github.io/aigotrhythm
+site_author: Yòmá
+site_description: "AI Got Rhythm"
+theme:
+    name: material
+    highlightjs: true
+    shortcuts:
+        help: 191    # ?
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
+repo_url: "https://github.com/AI-Got-Rhythm"
+copyright: "Copyright @ 2023 <a href='https://github.com/AI-Got-Rhythm' >AI Got Rhythm</a>"
+
+nav:
+  - Home: index.md
